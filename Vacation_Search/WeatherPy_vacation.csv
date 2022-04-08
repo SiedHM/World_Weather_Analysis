@@ -1,0 +1,197 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+3,Katobu,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+7,Sitio Novo Do Tocantins,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+9,Kalmunai,LK,78.89,broken clouds,7.4167,81.8167,VS Villa
+12,Boyolangu,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+14,Axim,GH,81.18,overcast clouds,4.8699,-2.2405,Axim Beach Resort And Spa
+15,Ballina,AU,68.02,overcast clouds,-28.8667,153.5667,Ramada Hotel & Suites by Wyndham Ballina Byron
+20,San Policarpo,PH,77.47,moderate rain,12.1791,125.5072,Agapita M. Nicart
+22,Vaini,TO,82.56,broken clouds,-21.2,-175.2,Keleti Beach Resort
+35,Fonte Boa,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+40,Kavaratti,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+41,Itarema,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+44,Arraial Do Cabo,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+52,Mumford,GH,81.18,overcast clouds,4.8699,-2.2405,Axim Beach Resort And Spa
+53,Chiantla,GT,80.19,scattered clouds,15.3547,-91.4583,Hotel Premier
+59,San Pedro,PH,78.35,scattered clouds,14.35,121.0167,Esquivel's Garden And Resort
+65,Isangel,VU,82.54,overcast clouds,-19.55,169.2667,Tanna Lodge
+67,Tonota,BW,77.09,overcast clouds,-21.4833,27.4833,Semotswane Baraka Lodge
+68,Port Blair,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+69,Butaritari,KI,81.25,light rain,3.0707,172.7902,Isles Sunset Lodge
+75,Srinagar,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+81,Pedernales,DO,83.66,broken clouds,18.0384,-71.744,Hotel Costa Marina
+82,Bartica,GY,80.92,few clouds,6.4,-58.6167,Sloth Island Nature Resort
+83,Tagusao,PH,77.47,moderate rain,12.1791,125.5072,Agapita M. Nicart
+88,Banes,CU,82.29,clear sky,20.9625,-75.7186,Hostal Iván y yailet
+89,Manokwari,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+94,Riyadh,SA,77.14,clear sky,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel"
+96,Cabedelo,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+99,Matara,LK,78.89,broken clouds,7.4167,81.8167,VS Villa
+106,Saint-Pierre,RE,76.91,scattered clouds,-21.3393,55.4781,Lindsey Hôtel
+107,Puerto Colombia,CO,82.49,overcast clouds,10.9878,-74.9547,Hotel El Emigrante
+108,Santa Fe,CU,82.29,clear sky,20.9625,-75.7186,Hostal Iván y yailet
+110,Pisco,PE,69.85,clear sky,-13.7,-76.2167,Hotel San Isidro Oficial
+111,Chegutu,ZW,67.28,few clouds,-18.1302,30.1407,Jacaranda Lodge
+113,Sungairaya,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+115,Huarmey,PE,69.85,clear sky,-13.7,-76.2167,Hotel San Isidro Oficial
+116,Tandalti,SD,87.04,few clouds,13.0167,31.8667,منزل : الهادي محمد مساعد
+117,Gazanjyk,TM,66.42,overcast clouds,39.2446,55.5154,Railway motel
+121,Rungata,KI,81.25,light rain,3.0707,172.7902,Isles Sunset Lodge
+127,Sao Joao Da Barra,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+128,Ternate,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+136,Inhambane,MZ,75.43,light rain,-23.865,35.3833,Oceano
+141,Merauke,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+144,Dubti,ET,83.07,scattered clouds,11.7361,41.0853,degu Shiferaw
+152,Lago Da Pedra,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+167,Bako,ET,83.07,scattered clouds,11.7361,41.0853,degu Shiferaw
+168,Inirida,CO,82.49,overcast clouds,10.9878,-74.9547,Hotel El Emigrante
+170,Cockburn Town,TC,78.49,clear sky,21.4612,-71.1419,Osprey Beach Hotel
+173,Harper,LR,80.71,broken clouds,4.375,-7.7169,Screensaver
+174,Vao,NC,80.11,moderate rain,-22.6667,167.4833,Hotel Kou-Bugny
+175,Maceio,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+177,Kathu,TH,83.7,overcast clouds,7.9178,98.3332,Novotel Phuket Resort
+178,Pangai,TO,82.56,broken clouds,-21.2,-175.2,Keleti Beach Resort
+180,Avarua,CK,86.05,few clouds,-21.2078,-159.775,Paradise Inn
+183,Hithadhoo,MV,82.08,few clouds,-0.6,73.0833,Scoop Guest House
+185,Biak,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+187,Cayenne,GF,77.09,moderate rain,4.9333,-52.3333,Hôtel Le Dronmi
+188,Jalingo,NG,88.75,scattered clouds,8.8833,11.3667,Debright Motel
+197,Coxim,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+198,Mega,ET,83.07,scattered clouds,11.7361,41.0853,degu Shiferaw
+199,Grand-Santi,GF,77.09,moderate rain,4.9333,-52.3333,Hôtel Le Dronmi
+200,San Cristobal,VE,78.98,broken clouds,7.7669,-72.225,Pirineos
+201,Marsabit,KE,71.26,overcast clouds,2.3284,37.9899,Chicho Hotel
+209,Barcelos,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+212,Chokwe,MZ,75.43,light rain,-23.865,35.3833,Oceano
+213,Jos,NG,88.75,scattered clouds,8.8833,11.3667,Debright Motel
+215,Puerto Ayora,VE,78.98,broken clouds,7.7669,-72.225,Pirineos
+216,Porto Walter,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+221,Hualmay,PE,69.85,clear sky,-13.7,-76.2167,Hotel San Isidro Oficial
+222,Caravelas,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+225,Chuy,UY,65.21,overcast clouds,-33.6971,-53.4616,Nuevo Hotel Plaza
+227,Saint-Joseph,RE,72.21,scattered clouds,-21.3667,55.6167,"""Plantation Bed and Breakfast"
+231,Natal,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+235,Bentiu,SD,87.04,few clouds,13.0167,31.8667,منزل : الهادي محمد مساعد
+237,Acarau,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+245,Cidreira,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+246,Laguna,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+247,Sao Lourenco Da Mata,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+251,Kekri,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+256,Vila Velha,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+258,Puerto Leguizamo,CO,82.49,overcast clouds,10.9878,-74.9547,Hotel El Emigrante
+264,Marcona,PE,69.85,clear sky,-13.7,-76.2167,Hotel San Isidro Oficial
+266,Kuching,MY,73.62,scattered clouds,1.55,110.3333,Hilton Kuching
+269,Mangrol,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+270,Macaboboni,PH,77.47,moderate rain,12.1791,125.5072,Agapita M. Nicart
+272,Nisia Floresta,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+276,Gorontalo,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+277,Tual,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+278,Bonfim,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+279,Thinadhoo,MV,82.08,few clouds,-0.6,73.0833,Scoop Guest House
+282,Gusau,NG,88.75,scattered clouds,8.8833,11.3667,Debright Motel
+283,Sur,OM,85.57,clear sky,22.5667,59.5289,Sur Plaza Hotel
+285,Pimenta Bueno,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+294,Alofi,NU,84.09,broken clouds,-19.0595,-169.9187,Taloa Heights
+295,Amulung,PH,77.47,moderate rain,12.1791,125.5072,Agapita M. Nicart
+297,The Valley,AI,80.46,few clouds,18.217,-63.0578,CeBlue Villas & Beach Resort
+301,Uberlandia,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+308,Mahibadhoo,MV,82.08,few clouds,-0.6,73.0833,Scoop Guest House
+310,Ratnagiri,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+315,Dajal,PK,84.36,clear sky,29.5577,70.3762,LADLA CHOUDHARY HOUSE
+318,Victoria,HK,72.95,clear sky,22.2855,114.1577,Mini Hotel Central
+320,Tezu,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+322,Monte Alegre,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+327,Banda Aceh,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+328,Bouna,CI,77.11,light rain,9.2667,-3.0,Hôtel lababa
+330,Marawi,SD,87.04,few clouds,13.0167,31.8667,منزل : الهادي محمد مساعد
+332,Rio Grande,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+335,Phrai Bung,TH,83.7,overcast clouds,7.9178,98.3332,Novotel Phuket Resort
+342,Sungai Petani,MY,73.62,scattered clouds,1.55,110.3333,Hilton Kuching
+345,Barmer,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+346,Rairangpur,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+347,Salalah,OM,85.57,clear sky,22.5667,59.5289,Sur Plaza Hotel
+349,Atambua,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+351,Touros,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+353,Udala,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+358,Bathsheba,BB,81.21,scattered clouds,13.2167,-59.5167,Atlantis Hotel
+362,Namibe,AO,71.42,clear sky,-15.1961,12.1522,Hotel Chik Chik Namibe
+367,Wundanyi,KE,71.26,overcast clouds,2.3284,37.9899,Chicho Hotel
+368,Saint-Philippe,RE,72.21,scattered clouds,-21.3667,55.6167,"""Plantation Bed and Breakfast"
+372,Gazojak,TM,66.42,overcast clouds,39.2446,55.5154,Railway motel
+375,Sakhon Nakhon,TH,83.7,overcast clouds,7.9178,98.3332,Novotel Phuket Resort
+376,Iguape,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+379,Alta Floresta,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+381,Omboue,GA,78.26,overcast clouds,-1.5746,9.2618,Hotel Olako
+383,Atar,MR,77.58,clear sky,20.5169,-13.0499,Oumou Elghoura
+384,Paracelis,PH,77.47,moderate rain,12.1791,125.5072,Agapita M. Nicart
+387,Presidente Medici,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+392,Tsogni,GA,78.26,overcast clouds,-1.5746,9.2618,Hotel Olako
+393,Sao Goncalo Do Sapucai,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+397,Ladario,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+399,Buluang,PH,77.47,moderate rain,12.1791,125.5072,Agapita M. Nicart
+402,Katangi,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+403,Dzaoudzi,YT,82.29,scattered clouds,-12.7887,45.2699,Le Rocher
+404,Camocim,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+412,Kutum,SD,87.04,few clouds,13.0167,31.8667,منزل : الهادي محمد مساعد
+417,Umm Kaddadah,SD,87.04,few clouds,13.0167,31.8667,منزل : الهادي محمد مساعد
+418,Iberia,PE,69.85,clear sky,-13.7,-76.2167,Hotel San Isidro Oficial
+419,San Lorenzo,PH,78.35,scattered clouds,14.35,121.0167,Esquivel's Garden And Resort
+424,Amahai,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+426,Gouyave,GD,79.57,scattered clouds,12.1646,-61.7296,Rumboat Retreat
+428,Benguela,AO,71.42,clear sky,-15.1961,12.1522,Hotel Chik Chik Namibe
+431,Alegrete,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+432,Bengkulu,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+433,Kapit,MY,73.62,scattered clouds,1.55,110.3333,Hilton Kuching
+434,Padampur,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+435,Bonoua,CI,77.11,light rain,9.2667,-3.0,Hôtel lababa
+439,Puerto Carreno,CO,82.49,overcast clouds,10.9878,-74.9547,Hotel El Emigrante
+441,Caucaia,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+443,Tanhacu,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+447,Meulaboh,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+449,Salinopolis,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+450,Porto Belo,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+456,Pouembout,NC,80.11,moderate rain,-22.6667,167.4833,Hotel Kou-Bugny
+464,Poya,NC,80.11,moderate rain,-22.6667,167.4833,Hotel Kou-Bugny
+466,Nabire,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+467,Dire Dawa,ET,83.07,scattered clouds,11.7361,41.0853,degu Shiferaw
+468,Dingle,AU,68.02,overcast clouds,-28.8667,153.5667,Ramada Hotel & Suites by Wyndham Ballina Byron
+473,Upata,VE,86.79,overcast clouds,8.0086,-62.3989,Posada Villa Nela
+474,Pitimbu,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+475,Prachuap Khiri Khan,TH,83.7,overcast clouds,7.9178,98.3332,Novotel Phuket Resort
+478,Bubaque,GW,76.55,scattered clouds,11.2833,-15.8333,"Casa Dora, Bubaque"
+481,Amuntai,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+482,San Juan De Colon,VE,86.79,overcast clouds,8.0086,-62.3989,Posada Villa Nela
+483,Santa Vitoria Do Palmar,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+488,Gilgit,PK,84.36,clear sky,29.5577,70.3762,LADLA CHOUDHARY HOUSE
+493,Miri,MY,73.62,scattered clouds,1.55,110.3333,Hilton Kuching
+506,Korhogo,CI,77.11,light rain,9.2667,-3.0,Hôtel lababa
+507,Palabuhanratu,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+510,Hambantota,LK,78.89,broken clouds,7.4167,81.8167,VS Villa
+513,Jiwani,PK,84.36,clear sky,29.5577,70.3762,LADLA CHOUDHARY HOUSE
+514,Bambui,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+517,Kupang,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+522,Lahat,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+523,Kijang,ID,74.79,overcast clouds,-4.9408,122.5276,La Ode Husein
+525,Piacabucu,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+526,Corumba,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+527,Igbo Ora,NG,88.75,scattered clouds,8.8833,11.3667,Debright Motel
+529,Palapye,BW,77.09,overcast clouds,-21.4833,27.4833,Semotswane Baraka Lodge
+533,Tabou,CI,77.11,light rain,9.2667,-3.0,Hôtel lababa
+534,Malwan,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+535,Tabiauea,KI,81.25,light rain,3.0707,172.7902,Isles Sunset Lodge
+536,Cravo Norte,CO,82.49,overcast clouds,10.9878,-74.9547,Hotel El Emigrante
+538,Ormara,PK,84.36,clear sky,29.5577,70.3762,LADLA CHOUDHARY HOUSE
+543,Robertsganj,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+544,Sao Geraldo Do Araguaia,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+545,Poum,NC,80.11,moderate rain,-22.6667,167.4833,Hotel Kou-Bugny
+548,Doka,SD,87.04,few clouds,13.0167,31.8667,منزل : الهادي محمد مساعد
+549,Uaua,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+551,Fayaoue,NC,80.11,moderate rain,-22.6667,167.4833,Hotel Kou-Bugny
+556,Sola,VU,82.54,overcast clouds,-19.55,169.2667,Tanna Lodge
+559,Ilhabela,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+562,Formoso Do Araguaia,BR,76.78,few clouds,-5.5183,-47.4611,Imperial Hotel
+569,Paradwip,IN,83.07,broken clouds,10.5669,72.642,Hotels in Lakshadweep Islands
+571,Najran,SA,77.14,clear sky,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel"
+573,Chiang Khong,TH,83.7,overcast clouds,7.9178,98.3332,Novotel Phuket Resort
+575,Takoradi,GH,81.18,overcast clouds,4.8699,-2.2405,Axim Beach Resort And Spa
+576,Camacupa,AO,71.42,clear sky,-15.1961,12.1522,Hotel Chik Chik Namibe
